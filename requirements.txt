@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+langchain
+langgraph
+chromadb
+streamlit
+requests
+python-dotenv
+newsapi-python
